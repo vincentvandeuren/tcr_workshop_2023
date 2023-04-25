@@ -1,0 +1,14 @@
+name: tcr_workshop
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - svalkiers
+  - pytorch
+dependencies:
+  - python
+  - ipykernel
+  - clustcr
+  - seaborn
+  - statsmodels
+  - pyteomics
