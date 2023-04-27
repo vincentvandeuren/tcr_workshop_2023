@@ -36,7 +36,7 @@ Paired scTCR-seq data from esophageal Tumor and adjacent in individuals with eso
 
 ### Social Event
 - Frituur (Belgium fries)
-- [https://www.quetzal.be/en_BE/location/antwerp/](Quetzal) for a hot chocolate/dessert
+- [https://www.quetzal.be/](Quetzal (dessert/hot chocolate)) 
  
 ### Contact details
 
