@@ -12,30 +12,37 @@
 - Conclusion (5:00 – 5:15 pm)
 
 ## Requirements 
-- download github repository
-- 
+- Download github repository
+- Bring a Labtop
+
 
 ## Course Material.
 
 ### TCR_Explore 
 [tcr-explore.erc.monash.edu](TCR_Explore)
-- QC material
-  - .ab1, .seq, Scored file, paired data
+- Files 
+  1. .ab1 and .seq
+  2. Scored file and paired data
+  3. .fcs files (Index sorted data)
+  4. Merged index data with TCR repertoire 
 
 - Paired files (Analysis)
 
-Challenge data set
-- 
+##### Challenge data set (ESCA)
 
+Paired scTCR-seq data from esophageal Tumor and adjacent in individuals with esophageal cancer. 
+- [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145370 ](GSE145370) 
+  - Sci Immunol 2021 Nov 12;6(65):eabk1741.  
 
-
-### Social 
-
+### Social Event
+- Frituur (Belgium fries)
+- [https://www.quetzal.be/en_BE/location/antwerp/](Quetzal) for a hot chocolate/dessert
+ 
 ### Contact details
 
 Dr. Kerry A Mullan: 
 [Kerry.mullan@uantwerpen.be](Kerry.mullan@uantwerpen.be)
 
-References:
-1. 
+Vincent Van Deuren 
 
+Romi Vandoren
