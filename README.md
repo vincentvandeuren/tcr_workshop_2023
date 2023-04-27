@@ -19,7 +19,7 @@
 ## Course Material.
 
 ### TCR_Explore 
-[tcr-explore.erc.monash.edu](TCR_Explore)
+tcr-explore.erc.monash.edu 
 - Files 
   1. .ab1 and .seq
   2. Scored file and paired data
@@ -31,18 +31,17 @@
 ##### Challenge data set (ESCA)
 
 Paired scTCR-seq data from esophageal Tumor and adjacent in individuals with esophageal cancer. 
-- [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145370 ](GSE145370) 
+- https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145370
   - Sci Immunol 2021 Nov 12;6(65):eabk1741.  
 
 ### Social Event
 - Frituur (Belgium fries)
-- [https://www.quetzal.be/](Quetzal (dessert/hot chocolate)) 
+- https://www.quetzal.be/
  
 ### Contact details
 
-Dr. Kerry A Mullan: 
-[Kerry.mullan@uantwerpen.be](Kerry.mullan@uantwerpen.be)
+Dr. Kerry A Mullan: Kerry.mullan@uantwerpen.be
 
-Vincent Van Deuren 
+Vincent Van Deuren:
 
-Romi Vandoren
+Romi Vandoren:
