@@ -13,7 +13,7 @@
 
 ## Requirements 
 - Download github repository
-- Bring a Labtop
+- Bring a Laptop
 
 
 ## Course Material.
